@@ -1,0 +1,94 @@
+{
+  "ADS": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner": "",
+      "backup_ads_intertitial": "",
+      "initialize_sdk": "",
+      "initialize_sdk_backup_ads": "",
+      "interstitial_counter": "3",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "keyword_home_fragment": "Wallpaper",
+      "show_category": "yes"
+    }
+  ],
+  "DATA": [
+    {
+      "title_search": "Abstract",
+      "image_url": "https://fsb.zobj.net/crop.php?r=K--FVpwVrFmgJeS-zLrbtnAOljgBbvq8YR71Gh3pFGk5Ib-nOGjCqEF5g1EAV_NE9Etie90H-Qc9LeOSaTmyna4GT0Gn9116rlUQ9faMoAbbVJR1twa6IU06zrrtVDfLqbA_6yxCjX91H3RV_mEQuDdlU6pHiS-boZeGiL9geR55qyPfeQ7fNeqGFxIyjTcLZRU6RB3ltdv4f5Cz"
+    },
+    {
+      "title_search": "Flower",
+      "image_url": "https://fsa.zobj.net/crop.php?r=bWzJwxkrUcLTGRXJdGy1vjJ0e4-lY_6IFqMnOU86dgqFQME-a5PvJ3EsocVVAbp4nFTErw12gCxGoZcwZ3-ZzLPwNWnLMcNdE6HVV0IEFy_uTG7xJZO-ptam6Hh33OyH0hGCcyXwUr3OxxN4VjXK9DM3Ie64RafanOr0-xH5XKEseKSLEPa7jGkINNNban6Bgn78pxMhj9QRSAGg"
+    },
+    {
+      "title_search": "Happy New Year",
+      "image_url": "https://fsa.zobj.net/crop.php?r=9zBjFJH1kff35rZ4AF2mVXyu5mqIjWjNcb0eR6nHiCWoPFAVbua9aDmm6PM-RrocLNEM1OOSi-hFKMD6Kz5AHFEWSwEJS1U6INRF_rfZXuMZFjnZXvke5HqhJU12L_-RhbrRPcDJjzjEtCGTEBlLvIk5yHVq4ZsD5VrbMhx0npP_9OXhOzIAdhuGyAItuHLsT8tRYjNpx84U0dJC"
+    },
+    {
+      "title_search": "Love",
+      "image_url": "https://fsb.zobj.net/crop.php?r=buWy47p0lW9TxIafehg2ubR2sx1DOeWnvSVjevRVOTAPlyMFlAB-OROFJVEr0NBk9pw_JTe5PKDDKmrlCunqb7f_hTHcxnuBDJEmHzrAG_K6kqqrAmTa5q3zCXzEzTG8-mL8PF9WE48AF0e4xhPuXDpee3ycPwR6e1qIKz3SzJz4t1TnEv7exmxGjfChUwKffHo4rgT4PYppkzkj"
+    },
+    {
+      "title_search": "Minimalis",
+      "image_url": "https://fsa.zobj.net/crop.php?r=drlfgWAs7m-0nHFqC6GVyXKxbGPGbNT7J4FaGDRvQ0apc1tV2L9PvAbtdEwu1_bl-y3057E_YILjwSERY38Kx5OqGNUf9I-ZMnMQE2stjqxNqmGoJIiFPOySsJoeqclX_-xnThZTlzazBxt3BPmc37Yo4d4MT-PiLg9i81-oHgc7xb-V_xeXlKzAMLWCD47N7mb8iS6x6e33Xi9y"
+    },
+    {
+      "title_search": "Nature",
+      "image_url": "https://fsb.zobj.net/crop.php?r=u8Du0O6Qx6QQx59murEJVFnxQxkda4yWOoCx0sx1kA7lYlcWvQ6Rq7zOH-iKj5LdcrE3HdOUD4r9pc2frl_tLQ-I76YhhxnIrnD1sEBww_2T7yqS8GDTsWPhVwSAKIG9xc85vsUn1TeVheBnUtE-dkEXbsV2EasOK4b4bPEmTWbPo19heY09uiqZeuG7dFAsl2R-MjHRUgXNnm8S"
+    },
+    {
+      "title_search": "Space",
+      "image_url": "https://fsa.zobj.net/crop.php?r=-65TiVNVE5gfNmScveX_qUzN7rSuyo0SJmCzGqiNS2DIVlD6rH_PhLFXuVbnFhNmdT5cQyWY33yPjAy1Dx1i60wuYacb5Kn4SC5Lnd1kHLyeGGgXlM0dnHY-qm7shXNT6F0ZZcH9oB_dBdw6wZ3LCKv-0XNCh0-1FbA538YPwN_uSPqP4RYOkRZU3XSx4rIBwPt1G5HZgbd050py"
+    },
+    {
+      "title_search": "Sport",
+      "image_url": "https://fsa.zobj.net/crop.php?r=-65TiVNVE5gfNmScveX_qUzN7rSuyo0SJmCzGqiNS2DIVlD6rH_PhLFXuVbnFhNmdT5cQyWY33yPjAy1Dx1i60wuYacb5Kn4SC5Lnd1kHLyeGGgXlM0dnHY-qm7shXNT6F0ZZcH9oB_dBdw6wZ3LCKv-0XNCh0-1FbA538YPwN_uSPqP4RYOkRZU3XSx4rIBwPt1G5HZgbd050py"
+    },
+    {
+      "title_search": "Travel",
+      "image_url": "https://fsa.zobj.net/crop.php?r=-65TiVNVE5gfNmScveX_qUzN7rSuyo0SJmCzGqiNS2DIVlD6rH_PhLFXuVbnFhNmdT5cQyWY33yPjAy1Dx1i60wuYacb5Kn4SC5Lnd1kHLyeGGgXlM0dnHY-qm7shXNT6F0ZZcH9oB_dBdw6wZ3LCKv-0XNCh0-1FbA538YPwN_uSPqP4RYOkRZU3XSx4rIBwPt1G5HZgbd050py"
+    },
+    {
+      "title_search": "Air Craft",
+      "image_url": "https://fsa.zobj.net/crop.php?r=-65TiVNVE5gfNmScveX_qUzN7rSuyo0SJmCzGqiNS2DIVlD6rH_PhLFXuVbnFhNmdT5cQyWY33yPjAy1Dx1i60wuYacb5Kn4SC5Lnd1kHLyeGGgXlM0dnHY-qm7shXNT6F0ZZcH9oB_dBdw6wZ3LCKv-0XNCh0-1FbA538YPwN_uSPqP4RYOkRZU3XSx4rIBwPt1G5HZgbd050py"
+    },
+    {
+      "title_search": "Animals",
+      "image_url": "https://fsa.zobj.net/crop.php?r=-65TiVNVE5gfNmScveX_qUzN7rSuyo0SJmCzGqiNS2DIVlD6rH_PhLFXuVbnFhNmdT5cQyWY33yPjAy1Dx1i60wuYacb5Kn4SC5Lnd1kHLyeGGgXlM0dnHY-qm7shXNT6F0ZZcH9oB_dBdw6wZ3LCKv-0XNCh0-1FbA538YPwN_uSPqP4RYOkRZU3XSx4rIBwPt1G5HZgbd050py"
+    },
+    {
+      "title_search": "Fire",
+      "image_url": "https://fsa.zobj.net/crop.php?r=-65TiVNVE5gfNmScveX_qUzN7rSuyo0SJmCzGqiNS2DIVlD6rH_PhLFXuVbnFhNmdT5cQyWY33yPjAy1Dx1i60wuYacb5Kn4SC5Lnd1kHLyeGGgXlM0dnHY-qm7shXNT6F0ZZcH9oB_dBdw6wZ3LCKv-0XNCh0-1FbA538YPwN_uSPqP4RYOkRZU3XSx4rIBwPt1G5HZgbd050py"
+    },
+    {
+      "title_search": "Games",
+      "image_url": "https://fsa.zobj.net/crop.php?r=-65TiVNVE5gfNmScveX_qUzN7rSuyo0SJmCzGqiNS2DIVlD6rH_PhLFXuVbnFhNmdT5cQyWY33yPjAy1Dx1i60wuYacb5Kn4SC5Lnd1kHLyeGGgXlM0dnHY-qm7shXNT6F0ZZcH9oB_dBdw6wZ3LCKv-0XNCh0-1FbA538YPwN_uSPqP4RYOkRZU3XSx4rIBwPt1G5HZgbd050py"
+    },
+    {
+      "title_search": "Girls",
+      "image_url": "https://fsa.zobj.net/crop.php?r=-65TiVNVE5gfNmScveX_qUzN7rSuyo0SJmCzGqiNS2DIVlD6rH_PhLFXuVbnFhNmdT5cQyWY33yPjAy1Dx1i60wuYacb5Kn4SC5Lnd1kHLyeGGgXlM0dnHY-qm7shXNT6F0ZZcH9oB_dBdw6wZ3LCKv-0XNCh0-1FbA538YPwN_uSPqP4RYOkRZU3XSx4rIBwPt1G5HZgbd050py"
+    },
+    {
+      "title_search": "Macro",
+      "image_url": "https://fsa.zobj.net/crop.php?r=-65TiVNVE5gfNmScveX_qUzN7rSuyo0SJmCzGqiNS2DIVlD6rH_PhLFXuVbnFhNmdT5cQyWY33yPjAy1Dx1i60wuYacb5Kn4SC5Lnd1kHLyeGGgXlM0dnHY-qm7shXNT6F0ZZcH9oB_dBdw6wZ3LCKv-0XNCh0-1FbA538YPwN_uSPqP4RYOkRZU3XSx4rIBwPt1G5HZgbd050py"
+    },
+    {
+      "title_search": "Ocean",
+      "image_url": "https://fsa.zobj.net/crop.php?r=-65TiVNVE5gfNmScveX_qUzN7rSuyo0SJmCzGqiNS2DIVlD6rH_PhLFXuVbnFhNmdT5cQyWY33yPjAy1Dx1i60wuYacb5Kn4SC5Lnd1kHLyeGGgXlM0dnHY-qm7shXNT6F0ZZcH9oB_dBdw6wZ3LCKv-0XNCh0-1FbA538YPwN_uSPqP4RYOkRZU3XSx4rIBwPt1G5HZgbd050py"
+    },
+    {
+      "title_search": "Weapon",
+      "image_url": "https://fsa.zobj.net/crop.php?r=-65TiVNVE5gfNmScveX_qUzN7rSuyo0SJmCzGqiNS2DIVlD6rH_PhLFXuVbnFhNmdT5cQyWY33yPjAy1Dx1i60wuYacb5Kn4SC5Lnd1kHLyeGGgXlM0dnHY-qm7shXNT6F0ZZcH9oB_dBdw6wZ3LCKv-0XNCh0-1FbA538YPwN_uSPqP4RYOkRZU3XSx4rIBwPt1G5HZgbd050py"
+    }
+  ]
+}
