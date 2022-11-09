@@ -1,0 +1,34 @@
+{
+  "ADS": [
+    {
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads": "",
+      "main_ads_banner": "ca-app-pub-5011952813953789/4620912227",
+      "main_ads_intertitial": "ca-app-pub-5011952813953789/3524379016",
+      "backup_ads_banner": "",
+      "backup_ads_intertitial": "",
+      "initialize_sdk": "",
+      "initialize_sdk_backup_ads": "",
+      "interstitial_counter": "3",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "keyword_home_fragment": "cool wallpaper",
+      "show_category": "yes"
+    }
+  ],
+  "DATA": [
+    {
+      "title_search": "Minimalist",
+      "image_url": "https://fsb.zobj.net/crop.php?r=bzjLzUCTWGL8yawY-4kzCgeOcfQNfjfekbK_Mkrf3m7S_Ql1XjI4QMGiNdGhiw0z2VVVYvvrhZd-1GmzFDuLuNnusKVieUsyAthgG1_lzc3ANICcEp-pLv2k4nU293ApDdSlfVpjmW-g8il0hnALS4AIUfU_L4Q46jeeQC7VpIid5uOh4PjL7uWMQUDAWBhzVlGMn3hmhKFL5XNF"
+    },
+    {
+      "title_search": "Dope",
+      "image_url": "https://fsb.zobj.net/crop.php?r=PstvOEMfvr7PyG9KKPqV1ItK68S-ADGNe0rYsAJw07ybC8PfCldK8N2rUaX15v_25A4AxpFEF4_gpeODhUgpSq6UrETIGrxqaaNXB8Y-JkekXMVHaJkyjXAwNwREv68jN1MSKcgRHrpxY_hlJwTIPTO_BjrCiCZ8DgTdPSodQWNgK_miIyCwRcvrG1u6uMGcp7uS_3vaveKpk7AF"
+    }
+  ]
+}
